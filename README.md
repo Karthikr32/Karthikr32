@@ -1,20 +1,33 @@
 ## Hi there 👋 I'm Karthik
 
-I am a Passionate developer dedicated to solving real-world problems through technology. As a Enthusiastic, hardworking and smart-working individual.
+I am a passionate full stack developer committed to solving real-world problems through technology. Known for being enthusiastic, hardworking, and smart-working, I continuously strive to grow both personally and professionally.
 
-My passion for the technology led me to transition into web development. Where I have honed a variety of essential skills, including proficiency in front-end technologies like HTML, CSS, and Bootstrap, as well as back-end development with NodeJS. My expertise also extends to JavaScript, ReactJS, and jQuery, all of which have allowed me to create dynamic, responsive, and user-centric applications.
+My passion for technology inspired me to transition into web development, where I have developed a strong foundation in both front-end and back-end technologies. On the front end, I am proficient in HTML5, CSS3/SCSS, Bootstrap, JavaScript, jQuery, and React. On the back end, I have hands-on experience with Java, Spring Framework (including Spring Boot and Spring Security), and I’m well-versed in working with MySQL for database management.
 
-I am eager to contribute my diverse skill set to the tech industry and thrive in collaborative, team-oriented environments.
+This diverse skill set enables me to develop dynamic, responsive, and secure web applications. I am eager to contribute my abilities to the tech industry and thrive in collaborative, team-oriented environments where continuous learning and innovation are valued.
 
 ## Social Links
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/karthik2k/) 
+[<img src="https://img.shields.io/badge/Gmail-E34F26?style=for-the-badge&logo=Gmail&logoColor=white" />](mailto:tkarthik2k@gmail.com)
+
 
 ## I Code in 
-<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="50" height="50" />  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="50" height="50" />  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="50" height="50" /> 
- <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" width="50" height="50" /> <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" width="50" height="50" />  <img src="https://img.icons8.com/?size=100&id=XH6rVkDQCZ9U&format=png&color=000000" width="50" height="50" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000"/>
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="50" height="50" /> <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="50" height="50" />
+<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="50" height="50" />
+<img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" width="50" height="50" />
+<img src="https://img.icons8.com/?size=100&id=XH6rVkDQCZ9U&format=png&color=000000" width="50" height="50" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000"/>
+<img width="56" height="56" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
+<img width="48" height="48" src="https://img.icons8.com/officel/40/spring-logo.png" alt="spring-logo"/>
+<img width="47" height="47" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/>
 
  ## Tools I ve used
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/java-eclipse.png" alt="java-eclipse"/>
+ <img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
+ <img height="50" width="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
+ <img height="50" width="50" src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000"/>
 
 ![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthikr32&theme=dark&show_icons=true&&hide=issues,contribs)
 
